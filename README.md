@@ -2,11 +2,11 @@
 ![image](https://github.com/user-attachments/assets/80f79062-6e8e-4a6f-ac8e-7bec8481a466)
 
 
-# Modelo RAG (Retrieval-Augmented Generation)
+# Modelo RAG (Retrieval-Augmented Generation)🤖
 
 Este é um projeto básico que implementa um sistema de Resposta Baseada em Recuperação (RAG - Retrieval-Augmented Generation) utilizando Streamlit e LangChain. Ele permite carregar documentos em formato PDF ou DOCX e iniciar um chatbot que analisa e responde perguntas com base no conteúdo dos arquivos fornecidos. O sistema é altamente configurável e inclui funções de depuração para validação e ajuste.
 
-## Visão Geral
+## Visão Geral ⚙️
 
 Este projeto combina Streamlit e LangChain para criar um sistema de interação direta com arquivos PDF e DOCX. Ele permite consultas claras e detalhadas com base no conteúdo dos documentos, mantendo precisão e consistência ao longo da conversa. Diferentemente de modelos como ChatGPT, Claude e Gemini, este sistema não sofre com alucinações ou perda de informações ao longo do diálogo, sendo ideal para análise e interpretação de documentos no dia a dia.
 
