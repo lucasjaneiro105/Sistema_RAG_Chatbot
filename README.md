@@ -4,7 +4,7 @@
 
 # Modelo RAG (Retrieval-Augmented Generation)
 
-Este projeto implementa um sistema de Resposta Baseada em Recuperação (RAG - Retrieval-Augmented Generation) utilizando Streamlit e LangChain. Ele permite carregar documentos em formato PDF ou DOCX e iniciar um chatbot que analisa e responde perguntas com base no conteúdo dos arquivos fornecidos. O sistema é altamente configurável e inclui funções de depuração para validação e ajuste.
+Este é um projeto básico que implementa um sistema de Resposta Baseada em Recuperação (RAG - Retrieval-Augmented Generation) utilizando Streamlit e LangChain. Ele permite carregar documentos em formato PDF ou DOCX e iniciar um chatbot que analisa e responde perguntas com base no conteúdo dos arquivos fornecidos. O sistema é altamente configurável e inclui funções de depuração para validação e ajuste.
 
 ## Visão Geral
 
